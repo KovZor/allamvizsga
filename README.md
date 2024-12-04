@@ -1,2 +1,2 @@
 # allamvizsga
-Allamviszga
+Inital commit for State Exam
